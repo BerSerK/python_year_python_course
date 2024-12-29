@@ -1,0 +1,1 @@
+print("Hello, World!") # print Hello, World! to the console. 中文意思是打印 Hello, World! 到控制台
